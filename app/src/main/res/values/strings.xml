@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">Baggage Fee Estimator</string>
-    <string name="app_url">https://github.com/YOURUSERNAME/YOURREPONAME</string>
+    <string name="app_url">https://github.com/patwazahin-sketch/BaggageFeeEstimator</string>
     <string name="share_message">Try this excess baggage fee estimator app:</string>
 
-    <string name="dev_name">YOUR FULL NAME</string>
-    <string name="dev_student_no">YOUR STUDENT NUMBER</string>
-    <string name="dev_group">YOUR GROUP</string>
-    <string name="dev_programme">YOUR PROGRAMME CODE</string>
+    <string name="dev_name">ZAHIN NOR PATWA BIN ZAKUAN</string>
+    <string name="dev_student_no">2024649372</string>
+    <string name="dev_group">RCDCS2405B</string>
+    <string name="dev_programme">CDCS240</string>
 
     <string name="about_info">This app estimates the excess baggage fee for air travel. Free allowance is 20 kg (Economy) and 40 kg (Business). An 8% service tax is added to the excess charge.</string>
-    <string name="copyright">© 2026 YOUR FULL NAME. All rights reserved.</string>
+    <string name="copyright">© 2026 ZAHIN NOR PATWA BIN ZAKUAN. All rights reserved.</string>
 </resources>
